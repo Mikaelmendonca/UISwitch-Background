@@ -16,7 +16,7 @@ Este projeto demonstra o uso do `UISwitch` no UIKit para modificar a interface d
 ## 📷 Demonstração  
 | Switch OFF | Switch ON |
 |------------|----------|
-| ![Tela vermelha](telaOff.png) | ![Tela verde](telaOn.png) |
+| ![Tela vermelha](screenshots/telaOff.png) | ![Tela verde](screenshots/telaOn.png) |
 
 ## 🛠️ Como Executar o Projeto  
 1. Clone este repositório:  
